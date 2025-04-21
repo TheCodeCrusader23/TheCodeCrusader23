@@ -72,6 +72,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecodecrusader23&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=thecodecrusader23&theme=react-dark" alt="Activity Graph"/>
-</p>
+

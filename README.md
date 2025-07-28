@@ -6,7 +6,7 @@
 
 ### ⚡️ The Fast Facts: My Mission & Approach
 
-I'm a Data Scientist in the making, driven by the philosophy of **'smart grind > blind hustle'**. My ultimate mission is to become a top tier Data Scientist in the USA, leveraging data to build impactful solutions and uncover compelling narratives.
+I'm a Data Scientist in the making, driven by the philosophy of **'smart grind > blind hustle'**
 
 My journey began with a **B.Tech in Computer Science Engineering**, and I'm currently expanding my horizons by pursuing a **BSc in Data Science from the prestigious Indian Institute of Technology, Madras (IIT Madras)**. This dual academic foundation equips me with a robust understanding of both core computer science principles and specialized data methodologies.
 
@@ -55,8 +55,8 @@ Here are some of the projects where I've put my skills into action. I'm actively
 I'm always open to collaborating on interesting data challenges, discussing new technologies, or just sharing insights. Feel free to reach out!
 
 * 📧 **Email:** [parthsingh1866@gmail.com] 
-* 📸 **Instagram:** [@parthsingh.23]
-* 🐦 **Twitter:** [@parth49singh] 
+* 📸 **Instagram:** [@parthsingh.23] (https://www.instagram.com/parthsingh.23/)
+* 🐦 **Twitter:** [@parth49singh] (https://x.com/parth49singh)
 <!-- * 💻 **Stack Overflow:** [Your Stack Overflow Profile]
 * 🧠 **Kaggle:** [Your Kaggle Profile]
 * 🚀 **LeetCode:** [Your LeetCode Profile] -->

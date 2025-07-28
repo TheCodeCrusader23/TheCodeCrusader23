@@ -50,14 +50,6 @@ Here are some of the projects where I've put my skills into action. I'm actively
 
    
 
-### 📈 My GitHub Activity
-
-[![Parth Singh's GitHub stats](https://github readme stats.vercel.app/api?username=TheCodeCrusader23&show_icons=true&theme=dark)](https://github.com/anuraghazra/github readme stats)
-[![GitHub Streak](https://streak stats.demolab.com/?user=TheCodeCrusader23&theme=dark)](https://git.io/streak stats)
-![GitHub Trophies](https://github profile trophy.vercel.app/?username=TheCodeCrusader23&theme=dark)
-
-   
-
 ### 👋 Let's Connect & Talk Data!
 
 I'm always open to collaborating on interesting data challenges, discussing new technologies, or just sharing insights. Feel free to reach out!

@@ -55,7 +55,7 @@ Here are some of the projects where I've put my skills into action. I'm actively
 I'm always open to collaborating on interesting data challenges, discussing new technologies, or just sharing insights. Feel free to reach out!
 
 * 📧 **Email:** [parthsingh1866@gmail.com] (e.g., mailto:your.email@example.com)
-* 📸 **Instagram:** [@parthsingh.23] (e.g., https://www.instagram.com/thecodecrusader23)
+* 📸 **Instagram:** [@parthsingh.23] (e.g., https://www.instagram.com/parthsingh.23/)
 * 🐦 **Twitter:** [@parth49singh] (e.g., https://twitter.com/parth49singh)
 <!-- * 💻 **Stack Overflow:** [Your Stack Overflow Profile]
 * 🧠 **Kaggle:** [Your Kaggle Profile]

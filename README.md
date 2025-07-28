@@ -16,14 +16,12 @@ My journey began with a **B.Tech in Computer Science Engineering**, and I'm curr
 
 I believe in continuous growth and a diverse toolkit.
 
-* **Languages & Tools:** Python (my go to for data!), MySQL, pandas, matplotlib, Git, C++, VS Code
-* **Strong Suits:** A keen eye for **Mathematics**, powerful **Data Visualization**, and a solid foundation in **Computational Thinking**.
+* **Languages & Tools:** Python (my go to for data!), MySQL, pandas, matplotlib, Git, C++, VS Code, Jupyter Notebook
 * **Currently Deepening My Skills In:**
     * Data Structures & Algorithms (DSA) in C++
     * Core Statistics for robust analysis
     * Advanced Machine Learning concepts
 
-I'm committed to practical learning, having completed extensive programs like CodeWithHarry's job ready Data Science course, and I'm always looking for new challenges.
 
    
 
@@ -47,7 +45,6 @@ Here are some of the projects where I've put my skills into action. I'm actively
 
 ### 🎯 My Big Goals
 
-* **Land a high paying Data Science job in the U.S.**
 * Build a killer portfolio with innovative, real world data projects.
 * Stay sharp through rigorous online learning, coding challenges, and technical deep dives.
 
@@ -65,12 +62,12 @@ Here are some of the projects where I've put my skills into action. I'm actively
 
 I'm always open to collaborating on interesting data challenges, discussing new technologies, or just sharing insights. Feel free to reach out!
 
-* 📧 **Email:** [Your Email Here] (e.g., mailto:your.email@example.com)
-* 📸 **Instagram:** [@your_instagram_handle] (e.g., https://www.instagram.com/thecodecrusader23)
-* 🐦 **Twitter:** [@your_twitter_handle] (e.g., https://twitter.com/parth49singh)
-* 💻 **Stack Overflow:** [Your Stack Overflow Profile]
+* 📧 **Email:** [parthsingh1866@gmail.com] (e.g., mailto:your.email@example.com)
+* 📸 **Instagram:** [@parthsingh.23] (e.g., https://www.instagram.com/thecodecrusader23)
+* 🐦 **Twitter:** [@parth49singh] (e.g., https://twitter.com/parth49singh)
+<!-- * 💻 **Stack Overflow:** [Your Stack Overflow Profile]
 * 🧠 **Kaggle:** [Your Kaggle Profile]
-* 🚀 **LeetCode:** [Your LeetCode Profile]
+* 🚀 **LeetCode:** [Your LeetCode Profile] -->
 
    
 

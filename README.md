@@ -32,10 +32,10 @@ Here are some of the projects where I've put my skills into action. I'm actively
 * **[NoteNest: Command Line Note Taking Application](https://github.com/TheCodeCrusader23/NoteNest)**
     * *Description:* A robust CLI application built with Python and MySQL for efficient note management.
     * *Skills Applied:* Python, MySQL, CLI Development, Input Validation.
-* **[Rock Paper Scissors Game](https://github.com/TheCodeCrusader23/Rock Paper Scissors Game)**
+* **[Rock Paper Scissors Game]([https://github.com/TheCodeCrusader23/Rock Paper Scissors Game](https://github.com/TheCodeCrusader23/rockpaperscissors))**
     * *Description:* A classic game showcasing fundamental programming logic.
     * *Skills Applied:* C++, Game Logic.
-* **[Number Guessing Game](https://github.com/TheCodeCrusader23/Number Guessing Game)**
+* **[Number Guessing Game]([https://github.com/TheCodeCrusader23/Number Guessing Game](https://github.com/TheCodeCrusader23/numberguessing))**
     * *Description:* An interactive console based game.
     * *Skills Applied:* C++, User Interaction.
 

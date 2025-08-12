@@ -34,10 +34,10 @@ Here are some of the projects where I've put my skills into action. I'm actively
     * *Skills Applied:* Python, MySQL, CLI Development, Input Validation.
 * **[Rock Paper Scissors Game]([https://github.com/TheCodeCrusader23/Rock Paper Scissors Game](https://github.com/TheCodeCrusader23/rockpaperscissors))**
     * *Description:* A classic game showcasing fundamental programming logic.
-    * *Skills Applied:* C++, Game Logic.
+    * *Skills Applied:* Game Logic.
 * **[Number Guessing Game]([https://github.com/TheCodeCrusader23/Number Guessing Game](https://github.com/TheCodeCrusader23/numberguessing))**
     * *Description:* An interactive console based game.
-    * *Skills Applied:* C++, User Interaction.
+    * *Skills Applied:* User Interaction.
 
 ***💡 Coming Soon:*** *Dedicated repositories showcasing advanced Data Analysis, Machine Learning models, and compelling Data Visualization projects. Stay tuned for more insights!*
 
